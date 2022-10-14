@@ -52,6 +52,17 @@ a:hover{
   color: orangered;
 }
 
+.leaflet-container{
+  width: 80vw;
+  height: 60vh;
+
+}
+
+.mapDiv{
+  display: flex;
+  justify-content: center;
+}
+
 
 @keyframes App-logo-spin {
   from {
